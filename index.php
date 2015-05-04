@@ -92,7 +92,7 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1 style="color: black;">Powered by <a href="http://mobilegrows.com/" rel="external">MobileGrows </a>|<a href="http://www.bobevans.com/" rel="external"> Desktop Site</a></h1>
+		    <h1 style="color: black;">Powered by <a href="http://mobilegrows.com/" rel="external">MobileGrows </a>|<a href="http://peckdds.com/" rel="external"> Desktop Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -170,113 +170,101 @@
 
 						</script>
 						
-						
 
 					</div>	   
 				</fieldset>
 				
+						<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
+					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a>
+					</div>
+				</div>
 					
 						<div data-role="collapsible-set">	
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
-							   <h3>MENUS</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">STARTERS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BIG FARM BURGERS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BEVERAGES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BREAKFAST</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">LUNCH</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">DINNER</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">3 COURSE DINNER</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SEASONAL</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">DESSERTS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FAMILY-SIZE MEALS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">CATERING</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">CARRY OUT</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">$5 CARRY OUT VALUE MENU</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">KIDS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FIT FROM THE FARM</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">NUTRITIONAL INFORMATION</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ALLERGEN INFORMATION</a>
+							   <h3>Welcome</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Meet Dr.Fred Peck</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Meet the Team</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Philosophy</a>
+							   
 
 							</div>
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
-							   <h3>CARRY OUT</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Order Online</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Carry Out</a>
+							   <h3>Smile Gallery</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Smile Gallery</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Styling Smiles-Changing Lives</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Testimonials</a>
 							 
 							</div>
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
-							   <h3>GROCERY</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FRESH SAUSAGE</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FULLY COOKED SAUSAGE</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">GRILLING SAUSAGE</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BACON & HAM</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">MASHED POTATOES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BREAKFAST POTATOES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">PASTA & RICE</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ENTREES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SIDE DISHES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SOUPS, SAUCES & GRAVIES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">HANDHELD BREAKFAST </a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ITEMS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BREAKFAST BURRITOS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BREAKFAST BOWLS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">WRAPPERS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FARM-FRESH GOODNESS </a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">PLEDGE</a>
+							   <h3>Comeprehensive Exam</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">New Patient Exam</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Complete Bite Analysis</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Smile Blueprint</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">TMJ Disorder</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Oral Cancer Warning Signs</a>
+							   
 
 							</div>
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
-							   <h3>RECIPES</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">APPETIZERS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BREAKFAST & BRUNCH</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">DESSERTS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ENTREES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SALADS, SOUPS & SIDES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SLOW COOKER</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ENTERTAINING RECIPES</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">20 RECIPES FOR UNDER 20 </a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BUCKS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">MAD ABOUT MASHED</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">VIEW ALL </a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ITEMS</a>
+							   <h3>Services</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Sophisticated Solutions</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Advanced Smile Desing</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Custom Bridges and Crowns</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dental Implants</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Family Dentistry</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Amalgam Free Dentistry</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Porcelain Veneers</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Bonding and Contouring </a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Invisalign Teeth Straightening</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Teeth Whitening</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Periodontics </a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Sleep Apnea</a>
 							   
 							   </div>
 							   <div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
-							   <h3>OUR COMPANY</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">OUR FARM</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FARM FESTIVAL</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">INVESTORS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">ANIMAL WELL-BEING</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BE-MAIL</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">EMPLOYMENT</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">FATC SHEET</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">GUEST SATISFACTION SURVEY</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">HISTORY AND LEGACY</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">MEDIA CENTER</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">OUR BRANDS </a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">GIVING BACK</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">PROMOTIONS</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">REAL ESTATE</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">SOCIAL MEDIA</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">DIVERSITY</a>
+							   <h3>Technology</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">CEREC</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">VELscore</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">The Lava COS</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dental Laser</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Digital X-Rays</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Computerized Imaging</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Smile Blueprint</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Intraoral Camera</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">TMJ Doppler/Ultrasound</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">OraVerse</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Bite Animation Program </a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Laser Cavity Detection</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Sterilization System</a>
+							   
+							   
+
+							</div>
+							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
+							   <h3>Patient Info</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Patient Forms</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Patient Education</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">CAESY</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Financial Information</a>
+							  </div>
+
+							  <div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
+							   <h3>News</h3>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Published Articles</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Practice News</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Continuing Education</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Professional Lectures and Presentations</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">TV and Radio Interviews</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Practice Blog</a>
+							  
+							   
 							   
 
 							</div>
 						</div>						
 					
 				
-				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">CATERING</a>
-					</div>
-				</div>
-				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">BEmail</a>
-					</div>
-				</div>
-				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">REWARDS</a>
-					</div>
-				</div>
+				
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-mail ui-btn-icon-left buttons-radius" href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact US</a></div>
 				</div>				   
@@ -292,14 +280,15 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu">
 						<ul id="menu">
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">MENUS</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">CARRY OUT</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">GROCERY</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">RECIPES</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Welcome</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Smile Gallery</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Comprehensive Exam</a></li>
 							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">OUR COMPANY</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">CATERING</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">BEmail</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">REWARDS</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Services</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Technology</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Patient Info</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">News</a></li>
 							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
@@ -322,14 +311,15 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">MENUS</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">CARRY OUT</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">GROCERY</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">RECIPES</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Welcome</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Smile Gallery</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Comprehensive Exam</a></li>
 							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">OUR COMPANY</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">CATERING</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">BEmail</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">REWARDS</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Services</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Technology</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Patient Info</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">News</a></li>
 							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 							</ul>
 					</section>
